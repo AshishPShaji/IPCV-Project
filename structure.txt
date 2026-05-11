@@ -1,0 +1,27 @@
+[Title] RAJALAKSHMI ENGINEERING COLLEGE
+[Heading 3] Department of Computer Science and Engineering
+[Heading 4] On
+[Heading 5] Darshan M
+[Heading 1] TABLE OF CONTENTS
+[Heading 1] ABSTRACT
+[Heading 1] INTRODUCTION
+[Heading 2] Background and Motivation
+[Heading 2] Problem Statement
+[Heading 2] Objectives
+[Heading 2] Tools Used
+[Heading 1] DATASET DESCRIPTION
+[Heading 2] VIRAT Video Dataset
+[Heading 2] Custom Campus Videos
+[Heading 1] PREPROCESSING METHODOLOGY
+[Heading 2] Preprocessing Visualizations
+[Heading 1] FEATURE EXTRACTION
+[Heading 1] ALGORITHM IMPLEMENTATION
+[Heading 2] MOG2 + DeepSORT Tracker
+[Heading 2] YOLOv8 Detection
+[Heading 1] SYSTEM ARCHITECTURE
+[Heading 1] RESULTS AND EVALUATION
+[Heading 1] CONCLUSION
+[Heading 1] FUTURE WORK
+[Heading 1] REFERENCES
+[Heading 1] APPENDIX A - SOURCE CODE
+[Heading 1] APPENDIX B - SAMPLE OUTPUT SCREENSHOTS
